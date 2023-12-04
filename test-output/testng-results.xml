@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-04T18:34:34 EET" name="Default suite" finished-at="2023-12-04T18:34:51 EET" duration-ms="17498">
+    <groups>
+    </groups>
+    <test started-at="2023-12-04T18:34:34 EET" name="Default test" finished-at="2023-12-04T18:34:51 EET" duration-ms="17498">
+      <class name="magentoLab.magentoTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:magentoLab.magentoTest@51768776]" started-at="2023-12-04T18:34:34 EET" name="Setup" finished-at="2023-12-04T18:34:36 EET" duration-ms="2143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Contact()[pri:1, instance:magentoLab.magentoTest@51768776]" started-at="2023-12-04T18:34:36 EET" name="Contact" finished-at="2023-12-04T18:34:45 EET" duration-ms="8697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact -->
+        <test-method signature="LogoutTest()[pri:2, instance:magentoLab.magentoTest@51768776]" started-at="2023-12-04T18:34:45 EET" name="LogoutTest" finished-at="2023-12-04T18:34:47 EET" duration-ms="2542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method signature="LoginTest()[pri:3, instance:magentoLab.magentoTest@51768776]" started-at="2023-12-04T18:34:47 EET" name="LoginTest" finished-at="2023-12-04T18:34:51 EET" duration-ms="4000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:magentoLab.magentoTest@51768776]" started-at="2023-12-04T18:34:51 EET" name="AfterTest" finished-at="2023-12-04T18:34:51 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- magentoLab.magentoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
